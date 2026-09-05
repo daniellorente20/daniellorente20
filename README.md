@@ -20,7 +20,7 @@ Terraform · Azure · Kubernetes · ArgoCD · TypeScript · C# / .NET · React �
 
 **Links**
 
-[CV](https://CVMD-URL-PENDING) · [LinkedIn](https://linkedin.com/in/daniellorente20) · [gestion-dental](https://github.com/taahfriends-dev)
+[CV](https://CVMD-URL-PENDING) · [LinkedIn](https://linkedin.com/in/daniellorente20)
 
 ---
 
