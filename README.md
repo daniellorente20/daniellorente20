@@ -16,11 +16,11 @@ Tech Lead at Pay Retailers (2022 – 2026): .NET monolith to microservices on AK
 
 **Stack**
 
-Terraform · Azure · Kubernetes · ArgoCD · TypeScript · C# / .NET · React · MySQL · ClickHouse · Kafka
+TypeScript · Terraform · Kubernetes · Azure · Argo CD · Kargo · Langfuse
 
 **Links**
 
-[CV](https://CVMD-URL-PENDING) · [LinkedIn](https://linkedin.com/in/daniellorente20)
+[CV](https://daniellorente20.github.io/cv/) · [LinkedIn](https://linkedin.com/in/daniellorente20)
 
 ---
 
