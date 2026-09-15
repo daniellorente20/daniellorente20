@@ -22,6 +22,3 @@ TypeScript · Terraform · Kubernetes · Azure · Argo CD · Kargo · Langfuse
 
 [CV](https://daniellorente20.github.io/cv/) · [LinkedIn](https://linkedin.com/in/daniellorente20)
 
----
-
-Work before August 2026 lives under [@daniellorente20-factorial](https://github.com/daniellorente20-factorial), a corporate account since migrated to this one.
